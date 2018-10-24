@@ -1,0 +1,21 @@
+﻿  UDPCommandServer.c
+  Run-time-stats-utils.c
+  main.c
+  CLI-commands.c
+  trcUser.c
+  trcKernelPort.c
+  trcKernel.c
+  trcHardwarePort.c
+  trcBase.c
+  FreeRTOS_CLI.c
+  timers.c
+  tasks.c
+d:\freertosv9.0.0\freertosv9.0.0\freertos\source\tasks.c(3179): warning C4210: 使用了非标准扩展: 函数给定文件范围
+  queue.c
+  port.c
+  heap_3.c
+  list.c
+  正在生成代码...
+list.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  WIN32.vcxproj -> D:\FreeRTOSV9.0.0\FreeRTOSv9.0.0\FreeRTOS-Plus\Demo\FreeRTOS_Plus_CLI_with_Trace_Windows_Simulator\.\Debug\RTOSDemo.exe
+  WIN32.vcxproj -> .\Debug/WIN32.pdb (Full PDB)
